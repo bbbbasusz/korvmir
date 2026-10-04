@@ -4,7 +4,7 @@
 
 **КорВМир**는 한글 텍스트를 음운 단위로 분석하여 다양한 세계 문자 체계에 맞는 표기로 변환하는 웹 기반 변환기입니다. 문자 체계별 대응 규칙과 한국어의 세부 음운 규칙을 적용하여 변환 결과와 중간 변환 과정을 확인할 수 있습니다.
 
-> 🔗 **[변환기 바로가기](YOUR_LINK)**
+> 🔗 **[변환기 바로가기](https://bbbbasusz.github.io/korvmir/)**
 
 ## 주요 기능
 
@@ -37,7 +37,7 @@
 
 **КорВМир** — веб-конвертер, который анализирует корейский текст на фонемном уровне и преобразует его в различные мировые системы письменности. Пользователь может применять правила соответствия для каждой письменности и дополнительные фонологические правила корейского языка, а также просматривать промежуточный результат преобразования.
 
-> 🔗 **[Открыть конвертер](YOUR_LINK)**
+> 🔗 **[Открыть конвертер](https://bbbbasusz.github.io/korvmir/)**
 
 ## Основные функции
 
@@ -70,7 +70,7 @@
 
 **КорВМир** is a web-based converter that analyzes Korean text at the phonological level and converts it into various writing systems around the world. It applies writing-system-specific correspondence rules and optional Korean phonological rules while allowing users to inspect both the final and intermediate results.
 
-> 🔗 **[Open Converter](YOUR_LINK)**
+> 🔗 **[Open Converter](https://bbbbasusz.github.io/korvmir/)**
 
 ## Key Features
 
