@@ -1,6 +1,4 @@
-# КорВМир
-# korvmir
-https://bbbbasusz.github.io/korvmir/
+# КорВМир # korvmir
 
 ### 한글의 세계 문자 변환기
 
@@ -38,4 +36,6 @@ https://bbbbasusz.github.io/korvmir/
 5. 필요한 경우 **대응표**를 통해 변환 규칙을 확인합니다.
 6. **복사 버튼**으로 결과를 가져갑니다.
 7. 지명은 **지도 기능**에서 지역을 선택하여 변환할 수 있습니다.
+
+# https://bbbbasusz.github.io/korvmir/
 
